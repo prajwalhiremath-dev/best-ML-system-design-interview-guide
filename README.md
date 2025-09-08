@@ -674,7 +674,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ml-system-design-interview&type=Date)](https://star-history.com/#yourusername/ml-system-design-interview&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=prajwalhiremath-dev/ml-system-design-interview&type=Date)](https://star-history.com/#prajwalhiremath-dev/ml-system-design-interview&Date)
 
 ## 🙏 Acknowledgments
 
